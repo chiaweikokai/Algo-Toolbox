@@ -3,7 +3,7 @@ import sys
 
 
 def get_fibonacci_last_digit(n):
-    # write your code here
+
     pre1 = 1
     pre2 = 1
     if n == 0: return 0
