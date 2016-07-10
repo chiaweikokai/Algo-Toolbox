@@ -3,7 +3,7 @@ import sys
 
 
 def get_fibonaccihuge(n, m):
-    # write your code here
+
     pre1 = 1
     pre2 = 1
     if n == 0: return 0
