@@ -10,7 +10,7 @@ def gcd(a, b):
 
 
 def lcm(a, b):
-    # write your code here
+
     k = gcd(a, b)
     return a * b // k
 
